@@ -1,6 +1,7 @@
 JC4827W543 4.3" RGB Display + GT911 Touch (ESP32‑S3)
 
 Overview
+
 This repository provides a beginner‑friendly reference for integrating the JC4827W543 4.3" 480×272 RGB display with NV3041A display and GT911 capacitive touch on an ESP32‑S3.
 
 For the NV3041A display, the following pins are connected to the ESP32-S3 through the following SPI Pins:
