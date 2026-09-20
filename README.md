@@ -21,3 +21,8 @@ For the GT911, the followig pins are connected through the following I2C Pins:
 For the sample codes included, make sure that the following libraries are installed:
 - GFX Library for Arduino (by Moon on our Nation)
 - TAMC_GT911 (by TAMC)
+
+Sampe Codes:
+- ESP32S3_JC4827W543_HelloWorld - Basic "Hello World" example that moves to the current touch position
+- ESP32S3_JC4827W543_Keyboard - Example Keyboard + Editor. This editor shows a vertical scroll that allows user to scroll through the texts that are no longer visible on the screen. It also has a small button on the top right to change the theme (Dark and Light Theme) 
+
